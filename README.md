@@ -11,6 +11,8 @@ I learned a lot thanks to the community, so I want to share what I did and how I
 
 Short name: Semmelweiss
 
+<u>Language</u>: R
+
 <u>Tags</u>: Data manipulation, Data visualization, Probability & statistics, Importing & cleaning data, Case studies
 
 <u>Principal packages</u>: Tidyverse, Patchwork
@@ -23,6 +25,8 @@ In 1847, Dr. Semmelweis instated a policy where doctors had to use a chlorine so
 
 Short name: Programming_languages
 
+<u>Language</u>: R
+
 <u>Tags</u>: Data manipulation, Data visualization, Importing & cleaning data
 
 <u>Principal packages:</u>: tidyverse, skimr.
@@ -31,7 +35,9 @@ It’s important to stay informed about trends in programming languages and tech
 
 ### 3. Iris dataset exploration
 
-Short name : iris
+Short name: iris
+
+<u>Language</u>: R
 
 <u>Tags</u>: Data visualization, Supervised machine learning, Unsupervised machine learning 
 
@@ -39,3 +45,18 @@ Short name : iris
 
 The Iris dataset, also known as Fisher's Iris or Anderson's Iris, is a multivariate dataset introduced in 1936 by Ronald Fisher in his paper The use of multiple measurements in taxonomic problems as an example of the application of linear discriminant analysis. Data were collected by Edgar Anderson to quantify variations in the morphology of iris flowers of three species. Two of the three species were collected in the Gaspé Peninsula. "All are from the same field, picked on the same day and measured on the same day by the same person with the same measuring tools".
 
+### 4. Visualizing Inequalities in Life Expectancy
+
+Short name: Life_expectancy_inequalities
+
+<u>Language</u>: R
+
+<u>Tags</u>: Data manipulation, Data visualization, Importing & cleaning data 
+
+<u>Principal packages</u>: dplyr, tidyr, ggplot2
+
+Life expectancy at birth is a measure of the average a living being is expected to live. It takes into account several demographic factors like gender, country, or year of birth.
+
+Life expectancy at birth can vary along time or between countries because of many causes: the evolution of medicine, the degree of development of countries, or the effect of armed conflicts. Life expectancy varies between gender, as well. The data shows that women live longer that men. Why? Several potential factors, including biological reasons and the theory that women tend to be more health conscious.
+
+Let's create some plots to explore the inequalities about life expectancy at birth around the world. We will use a dataset from the United Nations Statistics Division.
