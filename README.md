@@ -7,7 +7,7 @@ I learned a lot thanks to the community, so I want to share what I did and how I
 
 
 ## Projects
-### 1. Dr. Semmelweis and the Discovery of Handwashing (Done)
+### 1. Dr. Semmelweis and the Discovery of Handwashing
 
 Short name: Semmelweiss
 
@@ -21,7 +21,7 @@ In the mid 1800s, Dr. Ignaz Semmelweis was an obstetrician at Vienna General Hos
 
 In 1847, Dr. Semmelweis instated a policy where doctors had to use a chlorine solution to wash their hands between performing autopsies and seeing patients. The maternal mortality rate drastically decreased as seen in the plot below. Sadly, germ theory (the idea that there are particles that cause disease) was not widely accepted at the time, so his hypothesis was rejected by most doctors.
 
-### 2. Rise and Fall of programming languages (Done)
+### 2. Rise and Fall of programming languages
 
 Short name: Programming_languages
 
@@ -60,3 +60,19 @@ Life expectancy at birth is a measure of the average a living being is expected 
 Life expectancy at birth can vary along time or between countries because of many causes: the evolution of medicine, the degree of development of countries, or the effect of armed conflicts. Life expectancy varies between gender, as well. The data shows that women live longer that men. Why? Several potential factors, including biological reasons and the theory that women tend to be more health conscious.
 
 Let's create some plots to explore the inequalities about life expectancy at birth around the world. We will use a dataset from the United Nations Statistics Division.
+
+### 5. SMS spam detection
+
+Short name: SMS_spam
+
+<u>Language</u>: Python
+
+<u>Tags</u>: Data manipulation, Natural language processing, Supervised machine learning, deep learning
+
+<u>Principal packages</u>: Pandas, Numpy, Keras
+
+Spam is unsolicited and unwanted messages sent electronically and whose content may be malicious. Email spam is sent/received over the Internet while SMS spam is typically transmitted over a mobile network. We’ll refer to user that sent spam as ‘spammers’. SMS messages are usually very cheap (if not free) for the user to send, making it appealing for unrightful exploitation. This is further aggravated by the fact that SMS is usually regarded by the user as a safer, more trustworthy form of communication than other sources, e. g., emails.
+
+The dangers of spam messages for the users are many: undesired advertisement, exposure of private information, becoming a victim of a fraud or financial scheme, being lured into malware and phishing websites, involuntary exposition to inappropriate content, etc. For the network operator, spam messages result in an increased cost in operations.
+
+In the case under study, spam is an annoyance to the user and thus detrimental to the quality of the service that hurts the brand in the process. This can lead to complaints, low ratings and even loss of users, not to mention users getting scammed.
